@@ -1,0 +1,56 @@
+.color-pink{
+   background-color: pink;
+}
+.color-yellow{
+    background-color: yellow;
+}
+
+.center {
+    text-align: center;
+}
+
+
+table, th, td {
+    border: 1px solid #bcbcbc;
+  }
+
+.time-color1{
+    background-color: #76a9f5;
+}
+
+.time-color2 {
+    background-color: #e3f2fd;
+}
+
+
+td {
+    text-align: center;
+}
+
+table {
+    border: 1px solid #000;
+    width: 45%;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.every-th{
+    width: 100px;
+}
+
+.time-td{
+    width:50px;
+}
+
+.img-size {
+    width: 300px;
+    height: 300px;
+}
+
+div {
+    text-align: center;
+    background-color: rgb(251, 253, 145);
+    margin: 50px;
+    padding: 25px;
+}
